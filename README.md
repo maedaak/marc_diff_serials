@@ -1,7 +1,7 @@
 ﻿# marc_diff_serials
 
 図書館目録における雑誌包括所蔵形のデータをもとに、 同一雑誌タイトルについての２館間の所蔵を比較する
-（PerlモジュールMMARC::diffSerialsをPyton化したもの）
+※ 自作のPerlモジュールMMARC::diffSerials (https://mbc.dl.itc.u-tokyo.ac.jp/MARC-diffSerials/ )をPyton化したもの
 
 同一雑誌タイトルについて、2 館の所蔵状況を文字列として表し、補充可能な巻や欠号、マージ結果を計算します。
 
